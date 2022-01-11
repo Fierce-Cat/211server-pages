@@ -3,21 +3,44 @@
     <title>211SERVER</title>
     <link href="https://211.network/feed.xml" rel="self" />
     <link href="https://211.network" />
-    <updated>2022-01-11T02:26:46-08:00</updated>
+    <updated>2022-01-11T02:58:10-08:00</updated>
     <author>
         <name>211Team</name>
     </author>
     <id>https://211.network</id>
 
     <entry>
+        <title>坎巴拉太空计划</title>
+        <author>
+            <name>211Team</name>
+        </author>
+        <link href="https://211.network/kerbal-space-program.html"/>
+        <id>https://211.network/kerbal-space-program.html</id>
+
+        <updated>2022-01-11T02:57:59-08:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>僵尸计划（Project Zomboid）服务器</title>
         <author>
             <name>211Team</name>
         </author>
-        <link href="https://211.network/211shanghai-project-zomboid.html"/>
-        <id>https://211.network/211shanghai-project-zomboid.html</id>
+        <link href="https://211.network/project-zomboid.html"/>
+        <id>https://211.network/project-zomboid.html</id>
 
-        <updated>2022-01-11T02:26:46-08:00</updated>
+        <updated>2022-01-11T02:58:10-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://211.network/media/posts/1/Project-Zomboid-2000x1270-1-696x442.jpg" alt="" />
