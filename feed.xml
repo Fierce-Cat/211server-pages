@@ -3,31 +3,37 @@
     <title>211SERVER</title>
     <link href="https://211.network/feed.xml" rel="self" />
     <link href="https://211.network" />
-    <updated>2022-01-11T02:01:54-08:00</updated>
+    <updated>2022-01-11T02:23:30-08:00</updated>
     <author>
         <name>211Team</name>
     </author>
     <id>https://211.network</id>
 
     <entry>
-        <title>211上海 僵尸计划（Project Zomboid）服务器</title>
+        <title>僵尸计划（Project Zomboid）服务器</title>
         <author>
             <name>211Team</name>
         </author>
-        <link href="https://211.network/211shang-hai-jiang-shi-ji-huaproject-zomboidfu-wu-qi.html"/>
-        <id>https://211.network/211shang-hai-jiang-shi-ji-huaproject-zomboidfu-wu-qi.html</id>
+        <link href="https://211.network/211shanghai-project-zomboid.html"/>
+        <id>https://211.network/211shanghai-project-zomboid.html</id>
 
-        <updated>2022-01-11T02:01:54-08:00</updated>
+        <updated>2022-01-11T02:23:30-08:00</updated>
             <summary>
                 <![CDATA[
-                     等待内容填充 
+                        <img src="https://211.network/media/posts/1/header.jpg" alt="" />
+                     我们开新服务器了！ 非常高兴地告诉大家，我们开新服务器了！ 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://211.network/media/posts/1/header.jpg" alt="" />
                 
+    <h2>
+      我们开新服务器了！
+    </h2>
+
   <p>
-    等待内容填充
+    非常高兴地告诉大家，我们开新服务器了！
   </p>
             ]]>
         </content>

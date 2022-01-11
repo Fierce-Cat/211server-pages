@@ -11,18 +11,19 @@
     },
     "items": [
         {
-            "id": "https://211.network/211shang-hai-jiang-shi-ji-huaproject-zomboidfu-wu-qi.html",
-            "url": "https://211.network/211shang-hai-jiang-shi-ji-huaproject-zomboidfu-wu-qi.html",
-            "title": "211上海 僵尸计划（Project Zomboid）服务器",
-            "summary": " 等待内容填充 ",
-            "content_html": "\n  <p>\n    等待内容填充\n  </p>",
+            "id": "https://211.network/211shanghai-project-zomboid.html",
+            "url": "https://211.network/211shanghai-project-zomboid.html",
+            "title": "僵尸计划（Project Zomboid）服务器",
+            "summary": " 我们开新服务器了！ 非常高兴地告诉大家，我们开新服务器了！ ",
+            "content_html": "\n    <h2>\n      我们开新服务器了！\n    </h2>\n\n  <p>\n    非常高兴地告诉大家，我们开新服务器了！\n  </p>",
+            "image": "https://211.network/media/posts/1/header.jpg",
             "author": {
                 "name": "211Team"
             },
             "tags": [
             ],
             "date_published": "2022-01-11T02:01:54-08:00",
-            "date_modified": "2022-01-11T02:01:54-08:00"
+            "date_modified": "2022-01-11T02:23:30-08:00"
         }
     ]
 }
