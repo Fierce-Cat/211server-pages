@@ -5,6 +5,7 @@
     "home_page_url": "https://211.network",
     "feed_url": "https://211.network/feed.json",
     "user_comment": "",
+    "icon": "https://211.network/media/website/211logo.svg",
     "author": {
         "name": "211Team"
     },
